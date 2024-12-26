@@ -287,7 +287,7 @@ Berikut adalah beberapa visualisasi:
 ---
 
 ## Link G-Drive Models
-[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)]([https://drive.google.com](https://drive.google.com/drive/folders/1VqhALCZLYAgNcFivS4T6avC-CcbaAVAK?usp=sharing))
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1VqhALCZLYAgNcFivS4T6avC-CcbaAVAK?usp=sharing)
 
 ---
 
