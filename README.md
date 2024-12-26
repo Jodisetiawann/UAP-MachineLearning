@@ -1,4 +1,4 @@
-# Pendekatan Deep Learning Berbasis YOLOv8 untuk Deteksi dan Klasifikasi Mobil
+# Pendekatan Deep Learning Berbasis YOLOv8 untuk Deteksi dan Klasifikasi Kendaraan
 
 ## Deskripsi Proyek
 Proyek ini bertujuan untuk mengembangkan sistem deteksi dan klasifikasi kendaraan menggunakan pendekatan hibrida yang memanfaatkan **YOLOv8** untuk deteksi objek dan model deep learning berbasis **ResNet50** serta **InceptionV3** untuk klasifikasi. Sistem ini bekerja dengan mendeteksi bounding box dari kendaraan secara cepat menggunakan **YOLOv8**, lalu memproses area yang terdeteksi untuk diklasifikasikan sebagai **Vehicle (Car)** atau **Non-Vehicle** dengan model klasifikasi yang telah dilatih sebelumnya. Integrasi ini diimplementasikan menggunakan framework **Streamlit**, yang memungkinkan tampilan interaktif dan efisien untuk pengguna.
